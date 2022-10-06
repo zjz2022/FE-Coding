@@ -1,6 +1,6 @@
 # Leetcode solutions
 
-**Progress: 9/2744 Solutions**
+**Progress: 9/2802 Solutions**
 | ID | Title |        Solution   | Difficulty|
 | ---| ------| -   | -  |     
 | 1  | [两数之和](https://leetcode.cn/problems/two-sum/)  |       -       |-          |
