@@ -2,7 +2,7 @@
  * @param {number[][]} matrix
  * @return {number[]}
  */
-var spiralOrder = function (matrix) {
+ var spiralOrder = function (matrix) {
     // 定义一个一维数组，用于存放元素
     let results = []
     // 如果二维数组为空，则结束循环
